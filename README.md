@@ -1,6 +1,6 @@
 # Demo Repository
 
-Welcome to my **Demo Repository**!
+Welcome to my **Demo Repository**
 
 This repository was created for learning and practicing GitHub features. It is mainly used to explore GitHub workflows, test repository management, create commits, branches, pull requests, issues, and improve my understanding of version control using Git and GitHub.
 
